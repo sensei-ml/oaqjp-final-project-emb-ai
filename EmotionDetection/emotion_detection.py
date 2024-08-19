@@ -18,5 +18,4 @@ def emotion_detector(text_to_analyze):
     if RESPONSE.status_code == 400:
         return None
     else:
-        return emotions_values 
-    return emotions_values 
+        return emotions_values
