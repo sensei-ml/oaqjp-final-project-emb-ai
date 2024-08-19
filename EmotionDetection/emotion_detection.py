@@ -19,3 +19,4 @@ def emotion_detector(text_to_analyze):
         return None
     else:
         return emotions_values 
+    return emotions_values 
